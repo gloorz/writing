@@ -3,6 +3,10 @@ event: IMCW - Healing partisan divide
 speakers: Jack Kornfield
 date: 2021-01-10
 URL: https://imcw.org/Calendar/Event-Calendar/EventId/3890/e/healing-the-partisan-divide-10-jan-2021
+tags: 
+  - mindset
+  - spiritual
+  - buddhism
 ```
 
 Intro
