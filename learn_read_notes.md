@@ -12,7 +12,7 @@
 - Managing (WIP) work in progress - not letting it "pile up" 
 
 ## Management
-- [Jeremy Hunter](https://jeremyhunter.net/about/)
+- [Jeremy Hunter](https://jeremyhunter.net/about/) - "My work redefines and enhances productivity by cultivating quality of mind"
 
 # Food and Fitness
 ...
@@ -22,6 +22,8 @@
 
 ## Mohawk
 - [Kanatsiohareke Mohawk Community - return to Mohawk Valley](https://www.mohawkcommunity.org/)
+
+- Note: It's interesting how it's kind of difficult to find information about the people whom the land is named after. 
 ### Music
 - [Bear Fox - Akwesasne Mohawk Nation Territory](https://bearfoxmusic.com/home)
 - [Teioswathe - Cornell Performance 2016](https://youtu.be/xs1UhsIPCcI)
