@@ -11,10 +11,18 @@
 - Undertanding contraints and bottlenecks - optimizing outside of constrains is an illusion
 - Managing (WIP) work in progress - not letting it "pile up" 
 
+## Management
+- [Jeremy Hunter](https://jeremyhunter.net/about/)
+
 # Food and Fitness
 ...
 
 # Mindset and Spritual 
 ...
 
+## Mohawk
+- [Kanatsiohareke Mohawk Community - return to Mohawk Valley](https://www.mohawkcommunity.org/)
+### Music
+- [Bear Fox - Akwesasne Mohawk Nation Territory](https://bearfoxmusic.com/home)
+- [Teioswathe - Cornell Performance 2016](https://youtu.be/xs1UhsIPCcI)
 
