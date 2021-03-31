@@ -44,3 +44,4 @@
 
 ### Slavic
 - [Slavic Native Faith(Rodnovery)](https://en.wikipedia.org/wiki/Slavic_Native_Faith)
+- [A Preliminary Quantitative Study of the Mysticism and Religious Maturity of Contemporary Slavic Neopagans in Poland](https://www.researchgate.net/publication/343999938_A_Preliminary_Quantitative_Study_of_the_Mysticism_and_Religious_Maturity_of_Contemporary_Slavic_Neopagans_in_Poland)
