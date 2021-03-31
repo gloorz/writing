@@ -39,3 +39,8 @@
 ### Montagnard - Vietnamese Highlanders - Supported US Troops in Vietnam
 - [Montagnard Dega Association - North Carolina](https://www.montagnardda.org/) 
 - [VFW Article about Montagnards](https://www.vfw.org/media-and-events/latest-releases/archives/2019/4/montagnards-find-home-in-north-carolina)
+
+## Europe
+
+### Slavic
+- [Slavic Native Faith(Rodnovery)](https://en.wikipedia.org/wiki/Slavic_Native_Faith)
