@@ -32,4 +32,4 @@
 - [Teioswathe - Cornell Performance 2016](https://youtu.be/xs1UhsIPCcI)
 
 ### Cree - Canadas
-- [Cree Literacy Network](https://creeliteracy.org/cree-cultural-teachings/)
+- [Cree Literacy Network](https://creeliteracy.org/cree-cultural-teachings/) - Culture Teachings and Language
