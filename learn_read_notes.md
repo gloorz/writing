@@ -20,11 +20,16 @@
 # Mindset and Spritual 
 ...
 
-## Mohawk
+# Indigenous peoples
+
+## North America
+
+### Mohawk - CNY, North NY, Quebec
 - [Kanatsiohareke Mohawk Community - return to Mohawk Valley](https://www.mohawkcommunity.org/)
 
-- Note: It's interesting how it's kind of difficult to find information about the people whom the land is named after. 
-### Music
+#### Music
 - [Bear Fox - Akwesasne Mohawk Nation Territory](https://bearfoxmusic.com/home)
 - [Teioswathe - Cornell Performance 2016](https://youtu.be/xs1UhsIPCcI)
 
+### Cree - Canadas
+- [Cree Literacy Network](https://creeliteracy.org/cree-cultural-teachings/)
