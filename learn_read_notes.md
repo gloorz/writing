@@ -26,6 +26,7 @@
 
 ### Mohawk - CNY, North NY, Quebec
 - [Kanatsiohareke Mohawk Community - return to Mohawk Valley](https://www.mohawkcommunity.org/)
+- [Protecting Indigenous Languages-Google Earth - Bonnie Jane Maracle - CBC Interview](https://www.cbc.ca/player/play/1585445443982)
 
 #### Music
 - [Bear Fox - Akwesasne Mohawk Nation Territory](https://bearfoxmusic.com/home)
