@@ -14,6 +14,9 @@
 ## Management
 - [Jeremy Hunter](https://jeremyhunter.net/about/) - "My work redefines and enhances productivity by cultivating quality of mind"
 
+## Remote Work
+- [HBR-Our Work-from-Anywhere Future Best practices for all-remote organizations by Prithwiraj (Raj) Choudhury ](https://hbr.org/2020/11/our-work-from-anywhere-future)
+
 # Food and Fitness
 ...
 
