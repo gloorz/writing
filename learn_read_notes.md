@@ -21,8 +21,11 @@
 ...
 
 # Mindset and Spritual 
--[Charles Eisenstein](https://charleseisenstein.org/)
+- [Charles Eisenstein](https://charleseisenstein.org/)
   - "Spirituality, in other words, is not about that which is beyond materiality; it is about what the modern worldview does not recognize or cannot see. It therefore has everything to do with economics"
+- [Global Oneness Project](https://www.globalonenessproject.org)
+  - Orland Bishop
+  - "we aim to plant seeds of empathy, resilience, and a sacred relationship to our planet" 
 
 # Indigenous peoples
 
