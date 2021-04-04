@@ -21,7 +21,8 @@
 ...
 
 # Mindset and Spritual 
-...
+-[Charles Eisenstein](https://charleseisenstein.org/)
+  - "Spirituality, in other words, is not about that which is beyond materiality; it is about what the modern worldview does not recognize or cannot see. It therefore has everything to do with economics"
 
 # Indigenous peoples
 
