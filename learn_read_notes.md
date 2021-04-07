@@ -1,15 +1,20 @@
 # Technology and Management 
 
-## The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
-- [Book webpage](https://itrevolution.com/the-phoenix-project/)
-- [Amazon](https://www.amazon.com/dp/B078Y98RG8/ref=cm_sw_em_r_mt_dp_HcddGbKMGHM26)
-- Four types of work
-  - Business projects
-  - IT/tech
-  - Change
-  - Unplanned work
-- Undertanding contraints and bottlenecks - optimizing outside of constrains is an illusion
-- Managing (WIP) work in progress - not letting it "pile up" 
+# DevOps
+- The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
+  - [Book webpage](https://itrevolution.com/the-phoenix-project/)
+  - [Amazon](https://www.amazon.com/dp/B078Y98RG8/ref=cm_sw_em_r_mt_dp_HcddGbKMGHM26)
+  - Four types of work
+    - Business projects
+    - IT/tech
+    - Change
+    - Unplanned work
+  - Undertanding contraints and bottlenecks - optimizing outside of constrains is an illusion
+  - Managing (WIP) work in progress - not letting it "pile up" 
+- ["10+ Deploys Per Day" - Velocity 09: John Allspaw and Paul Hammond](https://www.youtube.com/watch?v=LdOe18KhtT4)
+  - mutual respect and team work
+  - slowly introduce new features and risk, reduce big bang changes
+  - metric, metrics, metrics
 
 ## Management
 - [Jeremy Hunter](https://jeremyhunter.net/about/) - "My work redefines and enhances productivity by cultivating quality of mind"
