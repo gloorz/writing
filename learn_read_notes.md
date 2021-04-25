@@ -58,6 +58,7 @@
 ### Slavic
 - [Slavic Native Faith(Rodnovery)](https://en.wikipedia.org/wiki/Slavic_Native_Faith)
 - [A Preliminary Quantitative Study of the Mysticism and Religious Maturity of Contemporary Slavic Neopagans in Poland](https://www.researchgate.net/publication/343999938_A_Preliminary_Quantitative_Study_of_the_Mysticism_and_Religious_Maturity_of_Contemporary_Slavic_Neopagans_in_Poland)
+[Cuture.pl - Mickiewicz Unravelled: A Little-Known Fact About Poland’s Best-Known Bard](https://culture.pl/en/article/mickiewicz-unravelled-a-little-known-fact-about-polands-best-known-bard)
 - [Witia Blog](https://witia.squarespace.com/blogeng)
   - "the entire Witia project is a creative not a scientific project"
   - "Large part of the “Witia” project is an attempt to look at the Slavic culture with the eyes of a pagan, with an openminded approach and respectful curiosity. Listening to the whispers of our Slavic souls we try to separate interpretations from facts and find in our heritage the elements which were supressed by the hundreds of years of Christianisation"
