@@ -23,7 +23,9 @@
 - [HBR-Our Work-from-Anywhere Future Best practices for all-remote organizations by Prithwiraj (Raj) Choudhury ](https://hbr.org/2020/11/our-work-from-anywhere-future)
 
 # Food and Fitness
-...
+## Coffee
+
+- [Ratio of coffee to grounds](https://blog.greenwellfarms.com/what-is-the-perfect-ratio-of-coffee-grounds-to-water/)
 
 # Mindset and Spritual 
 - [Charles Eisenstein](https://charleseisenstein.org/)
