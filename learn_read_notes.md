@@ -16,7 +16,7 @@
   - slowly introduce new features and risk, reduce big bang changes
   - metric, metrics, metrics
 
-# Inspiring Organizations
+## Inspiring Organizations
 - [MSCHF](https://www.nytimes.com/2020/01/30/style/MSCHF-sneakers-culture.html)
 
 ## Management
