@@ -16,6 +16,9 @@
   - slowly introduce new features and risk, reduce big bang changes
   - metric, metrics, metrics
 
+# Inspiring Organizations
+- [MSCHF](https://www.nytimes.com/2020/01/30/style/MSCHF-sneakers-culture.html)
+
 ## Management
 - [Jeremy Hunter](https://jeremyhunter.net/about/) - "My work redefines and enhances productivity by cultivating quality of mind"
 
@@ -64,3 +67,4 @@
 - [Witia Blog](https://witia.squarespace.com/blogeng)
   - "the entire Witia project is a creative not a scientific project"
   - "Large part of the “Witia” project is an attempt to look at the Slavic culture with the eyes of a pagan, with an openminded approach and respectful curiosity. Listening to the whispers of our Slavic souls we try to separate interpretations from facts and find in our heritage the elements which were supressed by the hundreds of years of Christianisation"
+
