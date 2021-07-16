@@ -37,6 +37,7 @@
 - [Global Oneness Project](https://www.globalonenessproject.org)
   - Orland Bishop
   - "we aim to plant seeds of empathy, resilience, and a sacred relationship to our planet" 
+- [Vox: Eastern Appropriation](https://www.vox.com/the-goods/22577558/wellness-world-qanon-conspiracy-orientalism)
 
 # Indigenous peoples
 
