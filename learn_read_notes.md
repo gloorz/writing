@@ -1,6 +1,9 @@
 # Technology and Management 
 
-# DevOps
+## Development Teams
+- [Heuristics for Effective Software Development: A continuously evolving list](https://holub.com/heuristics-for-effective-software-development-a-continuously-evolving-list/)
+
+## DevOps
 - The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
   - [Book webpage](https://itrevolution.com/the-phoenix-project/)
   - [Amazon](https://www.amazon.com/dp/B078Y98RG8/ref=cm_sw_em_r_mt_dp_HcddGbKMGHM26)
