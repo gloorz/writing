@@ -46,7 +46,7 @@
   - "we aim to plant seeds of empathy, resilience, and a sacred relationship to our planet" 
 - [Vox: Eastern Appropriation](https://www.vox.com/the-goods/22577558/wellness-world-qanon-conspiracy-orientalism)
 
-# Indigenous peoples
+# People and places
 
 ## North America
 
@@ -69,6 +69,11 @@
 
 ## Europe
 
+## Ireland
+- [John Moriarty](https://www.irishlifeandlore.com/product/john-moriarty-part-1/)
+- [John Moriarty - Spotify Podcast](https://open.spotify.com/episode/6UCVTW5XgL5IM5Yx0xiQGy?si=0TxLiKruSqO-AKyYrnty8w)
+
+
 ### Slavic
 - [Slavic Native Faith(Rodnovery)](https://en.wikipedia.org/wiki/Slavic_Native_Faith)
 - [A Preliminary Quantitative Study of the Mysticism and Religious Maturity of Contemporary Slavic Neopagans in Poland](https://www.researchgate.net/publication/343999938_A_Preliminary_Quantitative_Study_of_the_Mysticism_and_Religious_Maturity_of_Contemporary_Slavic_Neopagans_in_Poland)
@@ -79,5 +84,5 @@
 
 # Outdoors
 ## Safety
-- [Wilderness Medical Society](https://wms.org/
+- [Wilderness Medical Society](https://wms.org/)
 - [Advanced Wilderness Life Support](https://awls.org)
