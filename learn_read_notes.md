@@ -45,6 +45,8 @@
   - Orland Bishop
   - "we aim to plant seeds of empathy, resilience, and a sacred relationship to our planet" 
 - [Vox: Eastern Appropriation](https://www.vox.com/the-goods/22577558/wellness-world-qanon-conspiracy-orientalism)
+- [Dharma teaching from Ajahn Jayasaro](https://www.jayasaro.panyaprateep.org/en/audio)
+
 
 # People and places
 
