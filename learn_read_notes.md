@@ -26,6 +26,9 @@
 ## Inspiring Organizations
 - [MSCHF](https://www.nytimes.com/2020/01/30/style/MSCHF-sneakers-culture.html)
 
+## Life Balance
+- [Burnout Calculator - Based on Maslach Burnout Inventory](https://www.brnsft.com/burnout)
+
 ## Management
 - [Jeremy Hunter](https://jeremyhunter.net/about/) - "My work redefines and enhances productivity by cultivating quality of mind"
 
@@ -46,7 +49,6 @@
   - "we aim to plant seeds of empathy, resilience, and a sacred relationship to our planet" 
 - [Vox: Eastern Appropriation](https://www.vox.com/the-goods/22577558/wellness-world-qanon-conspiracy-orientalism)
 - [Dharma teaching from Ajahn Jayasaro](https://www.jayasaro.panyaprateep.org/en/audio)
-
 
 # People and places
 
