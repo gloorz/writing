@@ -35,6 +35,9 @@
 ## Remote Work
 - [HBR-Our Work-from-Anywhere Future Best practices for all-remote organizations by Prithwiraj (Raj) Choudhury ](https://hbr.org/2020/11/our-work-from-anywhere-future)
 
+## Technical Resources
+- [Robert M Lee - Collection of Resource for ICS/SCADA](http://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/)
+
 # Food and Fitness
 ## Coffee
 
