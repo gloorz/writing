@@ -95,3 +95,7 @@
 ## Safety
 - [Wilderness Medical Society](https://wms.org/)
 - [Advanced Wilderness Life Support](https://awls.org)
+
+# Blogs and Such
+- [Austin Vernon](https://austinvernon.eth.link/index.html)- "engineering, software, economics, investing, and Toyota Production System"
+- [Thomas Nail - Academia - Philospher](https://udenver.academia.edu/ThomasNail)
