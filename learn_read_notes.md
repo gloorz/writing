@@ -39,6 +39,7 @@
 - [Robert M Lee - Collection of Resource for ICS/SCADA](http://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/)
 - [Github code visualizer](https://octo-repo-visualization.vercel.app/)
 - [MITRE - Common Weakness Enumeration](https://cwe.mitre.org/top25/)
+- [Email Authenticity 101](https://www.alexblackie.com/articles/email-authenticity-dkim-spf-dmarc/)
 
 # Food and Fitness
 ## Coffee
