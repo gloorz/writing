@@ -41,6 +41,7 @@
 - [Github code visualizer](https://octo-repo-visualization.vercel.app/)
 - [MITRE - Common Weakness Enumeration](https://cwe.mitre.org/top25/)
 - [Email Authenticity 101](https://www.alexblackie.com/articles/email-authenticity-dkim-spf-dmarc/)
+- [Compiler Explorer](https://godbolt.org/)
 
 # Food and Fitness
 ## Coffee
