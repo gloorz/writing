@@ -42,6 +42,7 @@
 - [MITRE - Common Weakness Enumeration](https://cwe.mitre.org/top25/)
 - [Email Authenticity 101](https://www.alexblackie.com/articles/email-authenticity-dkim-spf-dmarc/)
 - [Compiler Explorer](https://godbolt.org/)
+- [Conference Collector - Search Security Conferences](https://cc.thinkst.com/)
 
 # Food and Fitness
 ## Coffee
