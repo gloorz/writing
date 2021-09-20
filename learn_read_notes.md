@@ -54,6 +54,7 @@
 
 - [Fungi Perfecti](https://fungi.com/)
 - [Far West Fungi](https://farwestfungi.com/)
+- [Fungi Foundation](https://ffungi.org/eng/)
 
 # Mindset and Spritual 
 - [Charles Eisenstein](https://charleseisenstein.org/)
