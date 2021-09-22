@@ -120,4 +120,7 @@
 # Art Stuff
 ## Sewing
 - [Blog: Male pattern boldness](http://malepatternboldness.blogspot.com/)
+
+### Messenger Bags Sewing 
 - [Messenger Bag pattern](https://notimetosew.wordpress.com/2011/12/05/messenger-bag-tutorial/)
+- [Timbuk2 Article](https://www.cnet.com/pictures/how-timbuk2-makes-its-messenger-bags-pictures/2/)
