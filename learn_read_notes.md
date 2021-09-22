@@ -116,3 +116,8 @@
 - [Austin Vernon](https://austinvernon.eth.link/index.html)- "engineering, software, economics, investing, and Toyota Production System"
 - [Thomas Nail - Academia - Philospher](https://udenver.academia.edu/ThomasNail)
   - [Blog: Philosphy of Movement](https://philosophyofmovementblog.com/)
+
+# Art Stuff
+## Sewing
+- [Blog: Male pattern boldness](http://malepatternboldness.blogspot.com/)
+- [Messenger Bag pattern](https://notimetosew.wordpress.com/2011/12/05/messenger-bag-tutorial/)
