@@ -6,3 +6,4 @@
 - On a precarious windy snowy night the trees collectively blow in unison like dizzying ocean swells
 - Early leaves shyly drop in a salute to the changing season
 - the world continues to spin without us sprinting
+- The fall foliage like cinnamon drops steadily as we rush by
