@@ -23,6 +23,10 @@
   - slowly introduce new features and risk, reduce big bang changes
   - metric, metrics, metrics
 
+## Python
+- [Real Python: Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)
+- [Book: Effective Python Examples](https://github.com/bslatkin/effectivepython/tree/v1)
+
 ## Inspiring Organizations
 - [MSCHF](https://www.nytimes.com/2020/01/30/style/MSCHF-sneakers-culture.html)
 - [Oxide Computers](https://oxide.computer/principles) 
