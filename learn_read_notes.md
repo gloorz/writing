@@ -128,3 +128,8 @@
 ### Messenger Bags Sewing 
 - [Messenger Bag pattern](https://notimetosew.wordpress.com/2011/12/05/messenger-bag-tutorial/)
 - [Timbuk2 Article](https://www.cnet.com/pictures/how-timbuk2-makes-its-messenger-bags-pictures/2/)
+
+# Personal Finance
+- [Blog: Credit Freeze](https://krebsonsecurity.com/2018/09/credit-freezes-are-free-let-the-ice-age-begin/)
+- [Compound interest calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator)
+- [Spend less/save more - Mr. Money Mustache on Tim Ferris](https://tim.blog/2017/02/13/mr-money-mustache/)
