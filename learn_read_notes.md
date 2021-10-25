@@ -92,9 +92,16 @@
 
 ## Europe
 
-## Ireland
+### Ireland
 - [John Moriarty](https://www.irishlifeandlore.com/product/john-moriarty-part-1/)
 - [John Moriarty - Spotify Podcast](https://open.spotify.com/episode/6UCVTW5XgL5IM5Yx0xiQGy?si=0TxLiKruSqO-AKyYrnty8w)
+
+## Language
+
+### Spanish
+- [Mezzo Guild Spanish Learning Resources](https://www.mezzoguild.com/online-spanish-courses/)
+- [Tim Ferris Article on learning language](https://tim.blog/2014/03/21/how-to-learn-a-foreign-language-2/)
+
 
 
 ### Slavic
@@ -137,3 +144,4 @@
 
 # Relationships
 - [This American Life - The Rundown](https://www.thisamericanlife.org/231/time-to-save-the-world/act-one-0) - Go from the conversation you should be having to the conversation you want to be having
+- [Eneagram personality types](https://www.enneagraminstitute.com/the-enneagram-type-combinations)
