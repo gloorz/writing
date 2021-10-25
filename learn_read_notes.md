@@ -133,3 +133,4 @@
 - [Blog: Credit Freeze](https://krebsonsecurity.com/2018/09/credit-freezes-are-free-let-the-ice-age-begin/)
 - [Compound interest calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator)
 - [Spend less/save more - Mr. Money Mustache on Tim Ferris](https://tim.blog/2017/02/13/mr-money-mustache/)
+- [Whale Watch](https://whalewisdom.com/)
