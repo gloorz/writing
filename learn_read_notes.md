@@ -1,11 +1,12 @@
 # Technology and Management 
 
-## Development Teams
+## Project Teams
 - [Heuristics for Effective Software Development: A continuously evolving list](https://holub.com/heuristics-for-effective-software-development-a-continuously-evolving-list/)
   - "Everything is an experiment"
   - "We work to make our customer’s lives better and their work easier."
   - "Our only measure of progress is delivering into our customers hands things they find valuable."
   - "Relatedness, autonomy, mastery, and purpose are essential drivers. Rewards and punishments are actively destructive."
+- [Strawman Planning](https://www.linkedin.com/pulse/strawman-project-plan-what-why-should-you-use-one-brian-fredrickson/) - sketch a plan, get team buy-in and feedback, make improvements, move forward. Don't be defensive. 
 
 ## DevOps
 - The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
