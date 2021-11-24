@@ -146,7 +146,7 @@
 - [Compound interest calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator)
 - [Spend less/save more - Mr. Money Mustache on Tim Ferris](https://tim.blog/2017/02/13/mr-money-mustache/)
 - [Whale Watch](https://whalewisdom.com/)
-
+- [Visual Capitalist - i.e. pretty pictures](https://www.visualcapitalist.com/)
 # Relationships
 - [This American Life - The Rundown](https://www.thisamericanlife.org/231/time-to-save-the-world/act-one-0) - Go from the conversation you should be having to the conversation you want to be having
 - [Eneagram personality types](https://www.enneagraminstitute.com/the-enneagram-type-combinations)
