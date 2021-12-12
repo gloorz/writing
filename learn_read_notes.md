@@ -136,6 +136,8 @@
 # Art Stuff
 ## Sewing
 - [Blog: Male pattern boldness](http://malepatternboldness.blogspot.com/)
+- [Strap Works](https://www.strapworks.com/)
+- [Zipper Stop](https://zipperstop.com/)
 
 ### Messenger Bags Sewing 
 - [Messenger Bag pattern](https://notimetosew.wordpress.com/2011/12/05/messenger-bag-tutorial/)
