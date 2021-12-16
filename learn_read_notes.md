@@ -152,3 +152,8 @@
 # Relationships
 - [This American Life - The Rundown](https://www.thisamericanlife.org/231/time-to-save-the-world/act-one-0) - Go from the conversation you should be having to the conversation you want to be having
 - [Eneagram personality types](https://www.enneagraminstitute.com/the-enneagram-type-combinations)
+
+# Earth Science
+## Weather / Sun
+- [DarkSky - Local Weather](https://darksky.net)
+- [Sun Calc - show sun on location](https://www.suncalc.org)
