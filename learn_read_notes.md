@@ -132,6 +132,9 @@
 - [Austin Vernon](https://austinvernon.eth.link/index.html)- "engineering, software, economics, investing, and Toyota Production System"
 - [Thomas Nail - Academia - Philospher](https://udenver.academia.edu/ThomasNail)
   - [Blog: Philosphy of Movement](https://philosophyofmovementblog.com/)
+- [Timothy Morton - hyperobjects](http://ecologywithoutnature.blogspot.com/)
+
+
 
 # Art Stuff
 ## Sewing
