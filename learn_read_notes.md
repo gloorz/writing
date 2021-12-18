@@ -133,7 +133,7 @@
 - [Thomas Nail - Academia - Philospher](https://udenver.academia.edu/ThomasNail)
   - [Blog: Philosphy of Movement](https://philosophyofmovementblog.com/)
 - [Timothy Morton - hyperobjects](http://ecologywithoutnature.blogspot.com/)
-
+  - [Lions Roar - Timothy Morton - Buddhaphobia](https://www.lionsroar.com/groundbreaking-scholar-timothy-morton-wants-philosophers-to-face-their-buddhaphobia/)
 
 
 # Art Stuff
