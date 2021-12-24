@@ -73,7 +73,9 @@
   - "we aim to plant seeds of empathy, resilience, and a sacred relationship to our planet" 
 - [Vox: Eastern Appropriation](https://www.vox.com/the-goods/22577558/wellness-world-qanon-conspiracy-orientalism)
 - [Dharma teaching from Ajahn Jayasaro](https://www.jayasaro.panyaprateep.org/en/audio)
+## Marriage
 - ["A Happy Married Life: A Buddhist Perspective", by Ven. K. Sri Dhammananda. Access to Insight (BCBS Edition), 30 November 2013](http://www.accesstoinsight.org/lib/authors/dhammananda/marriage.html)
+- 
 
 # People and places
 
