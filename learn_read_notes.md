@@ -35,6 +35,7 @@
 
 ## Life Balance
 - [Burnout Calculator - Based on Maslach Burnout Inventory](https://www.brnsft.com/burnout)
+- [80000hours](https://80000hours.org/)
 
 ## Management
 - [Jeremy Hunter](https://jeremyhunter.net/about/) - "My work redefines and enhances productivity by cultivating quality of mind"
