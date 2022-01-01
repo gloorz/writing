@@ -7,3 +7,4 @@
 - Early leaves shyly drop in a salute to the changing season
 - the world continues to spin without us sprinting
 - The fall foliage like cinnamon drops steadily as we rush by
+- One-time floss sticks, q-tips, and bottle caps collect like dandruff on the curb side
