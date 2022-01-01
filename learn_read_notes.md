@@ -67,6 +67,7 @@
 - [Fungi Foundation](https://ffungi.org/eng/)
 
 # Mindset and Spritual 
+## Misc
 - [Charles Eisenstein](https://charleseisenstein.org/)
   - "Spirituality, in other words, is not about that which is beyond materiality; it is about what the modern worldview does not recognize or cannot see. It therefore has everything to do with economics"
 - [Global Oneness Project](https://www.globalonenessproject.org)
@@ -74,8 +75,25 @@
   - "we aim to plant seeds of empathy, resilience, and a sacred relationship to our planet" 
 - [Vox: Eastern Appropriation](https://www.vox.com/the-goods/22577558/wellness-world-qanon-conspiracy-orientalism)
 - [Dharma teaching from Ajahn Jayasaro](https://www.jayasaro.panyaprateep.org/en/audio)
+
+## Buddhism and Dhamma 
+
+### Audio Resources
+- [Dharmaseed talks and retreat recordings](https://www.dharmaseed.org/)
+- [Forest Sangha](https://forestsangha.org/teachings/audio)
+- [Insight Meditation Center-California](https://www.audiodharma.org/)
+
 ## Marriage
 - ["A Happy Married Life: A Buddhist Perspective", by Ven. K. Sri Dhammananda. Access to Insight (BCBS Edition), 30 November 2013](http://www.accesstoinsight.org/lib/authors/dhammananda/marriage.html)
+
+### Reading Resources
+- [Journal: Mindfulness - Springer](https://www.springer.com/journal/12671)
+  - [Amaro, A. Puncture your Papañca. Mindfulness 12, 3101–3107 (2021)](https://link.springer.com/article/10.1007/s12671-021-01746-x)
+
+## Mens Work
+- [Book: To Be a Man - Robert Augustus Masters](https://www.robertmasters.com/book/to-be-a-man/)
+- [Group: Brookln Zen Center - Undoing Patriarchy](https://brooklynzen.org/programs/undoing-patriarchy/)
+- [Group: Minnesota Mens Conference](https://minnesotamensconference.com/)
 
 # History and Organizations
 - [anarchist library](https://theanarchistlibrary.org/special/index)
