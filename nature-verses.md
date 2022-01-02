@@ -1,3 +1,4 @@
+## Nature Verses
 - All the megapixels in the world can't capture the beauty like open eyes
 - The blood orange sunset radiates effortlessly like the open heart
 - Loons dining in the hazy sunset with fragrant summer smells 
@@ -8,3 +9,19 @@
 - the world continues to spin without us sprinting
 - The fall foliage like cinnamon drops steadily as we rush by
 - One-time floss sticks, q-tips, and bottle caps collect like dandruff on the curb side
+
+
+## Misc
+- I am no soliquist
+- When I read poems I barely get the gist
+- My eye for creativity died on the STEM
+- Walks in the world some words spring up
+- It's not clear why they are there
+- Or whether or not I should care
+- It gives resonance and meaning
+- To trails and sidewalks this time has well worn
+- The wisdom of age becomes rung like a wood drum
+- With layers of time and exploration
+- Trial and error
+- Trial and air
+
