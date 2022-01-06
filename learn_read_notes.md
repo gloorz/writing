@@ -99,6 +99,7 @@
 - [anarchist library](https://theanarchistlibrary.org/special/index)
 - [David graeber](https://davidgraeber.org/)
 - [PEN America](https://pen.org/report/made-in-hollywood-censored-by-beijing/) - on China censorship of F9
+- [STRIKE! - Bullshit Jobs](https://www.strike.coop/bullshit-jobs/) - this is a fun one
 
 # People and places
 
