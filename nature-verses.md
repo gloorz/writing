@@ -25,3 +25,14 @@
 - Trial and error
 - Trial and air
 
+- grabbing scoops of water from the stream 
+- trying to capture and hoard all of life
+- it's really hard to hold on to all of it at once
+- get your arms around it they say
+- the systems seems to infinitely expand
+- our arms are only so long
+- is decomposition and breakdown critical in the process?
+- what for arms to do if not for getting around things?
+- maybe going with the flow of the stream is an option
+- maybe capturing nothing is the path
+- maybe it's time to give our arms a rest
