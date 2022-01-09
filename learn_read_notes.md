@@ -165,7 +165,7 @@
   - [Blog: Philosphy of Movement](https://philosophyofmovementblog.com/)
 - [Timothy Morton - hyperobjects](http://ecologywithoutnature.blogspot.com/)
   - [Lions Roar - Timothy Morton - Buddhaphobia](https://www.lionsroar.com/groundbreaking-scholar-timothy-morton-wants-philosophers-to-face-their-buddhaphobia/)
-
+  - [At the End of the World, It’s Hyperobjects All the Way Down](https://www.wired.com/story/timothy-morton-hyperobjects-all-the-way-down/)
 
 # Art Stuff
 ## Sewing
@@ -194,4 +194,4 @@
 - [Moon Calc - show moon arc](https://www.mooncalc.org/)
 
 ## Wired
--[Weighing Big Tech’s Promise to Black America](https://www.wired.com/story/big-techs-promise-to-black-america/)
+- [Weighing Big Tech’s Promise to Black America](https://www.wired.com/story/big-techs-promise-to-black-america/)
