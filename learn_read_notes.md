@@ -184,6 +184,8 @@
 - [Whale Watch](https://whalewisdom.com/)
 - [Visual Capitalist - i.e. pretty pictures](https://www.visualcapitalist.com/)
 - [50 laws of investing](https://www.evidenceinvestor.com/50-laws-of-investing/)
+- [Atlantic: Engine No 1 Index Fund](https://www.theatlantic.com/newsletters/archive/2021/06/climate-focused-hedge-funds-new-index-fund-engine-no-1/619264/)
+
 
 # Relationships
 - [This American Life - The Rundown](https://www.thisamericanlife.org/231/time-to-save-the-world/act-one-0) - Go from the conversation you should be having to the conversation you want to be having
