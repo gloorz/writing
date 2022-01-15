@@ -50,6 +50,7 @@
 - [Email Authenticity 101](https://www.alexblackie.com/articles/email-authenticity-dkim-spf-dmarc/)
 - [Compiler Explorer](https://godbolt.org/)
 - [Conference Collector - Search Security Conferences](https://cc.thinkst.com/)
+- [Uptime.is](https://uptime.is)
 
 # Food and Fitness
 ## Coffee
