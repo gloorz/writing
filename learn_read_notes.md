@@ -210,3 +210,6 @@
 
 ## Wired
 - [Weighing Big Tech’s Promise to Black America](https://www.wired.com/story/big-techs-promise-to-black-america/)
+
+# Books
+- [Atlantic 15 Books](https://www.theatlantic.com/books/archive/2022/01/critically-acclaimed-books-atwood-ishiguro/621287/)
