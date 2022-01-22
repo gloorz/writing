@@ -60,6 +60,16 @@
 
 ## Farm
 - [Grow Where You Are - Atlanta Based Urban Farming](https://www.growwhereyouare.farm/)
+- [Northeast Organic Farm Association-NY](https://nofany.org/)
+
+## Biodiversity
+- [Landscape Interactions](https://www.landscapeinteractions.com/services)
+  - NOFA-NY Online conference
+  - Watch for neonicotinoids, even in native nurseries
+  - Honeybees don't help pollinator problem
+  - Rare native plants are key piece to support less common pollinators
+  - Northeast natives are supported by land burn
+  - https://beecology.wpi.edu/website/home
 
 ## Mushrooms
 
