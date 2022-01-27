@@ -36,3 +36,17 @@
 - maybe going with the flow of the stream is an option
 - maybe capturing nothing is the path
 - maybe it's time to give our arms a rest
+
+Like a tumbleweed dropping into the stream of dharma
+Comes up like a glass house
+Breaks into 10,000 unitelligble pieces
+User manual 2600 years old
+Motivation to reaaseemble dubious
+Enviosiong a new house and a new shelter
+Envisioning the stream as the lesson and the vessle
+Taking on a new shape and size
+Molting, breaking and burning
+Emerging as a flower
+The flower opens and closes with the weather
+While arising and passing with the changing seasons
+
