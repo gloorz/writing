@@ -50,3 +50,14 @@
 - The flower opens and closes with the weather
 - While arising and passing with the changing seasons
 
+- If we are lucky the waste will be fed to the animals
+- We got the hot air balloon
+- Did it really need to be made any better?
+- Who really needs to travel that far from home?
+- Usually the people that need to flee are least likely to get a ride
+- While whitey is on the moon
+- Galavanting and polar expressing are the rest
+- While the dinner goers go hungry with discontent
+- Send the fish back, it's not cooked right
+- The garabage stacked with good calories
+- And across town people go hungry
