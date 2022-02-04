@@ -61,3 +61,15 @@
 - Send the fish back, it's not cooked right
 - The garabage stacked with good calories
 - And across town people go hungry
+
+- The record player emits sweet rythm and blues
+- While the fine china cabinet crashes to the floor
+- Pieces smashing everywhere
+- With barefeet you know you will need to walk
+- Through it all to clean it up
+- To make sense of it all you will get cut
+- There is likely not enough glue to put it all back together
+- It will likely be necessary to consider a new China cabinet
+- And new China
+- Or maybe nothing will take the place
+- We will find out in time what will fill that old space
