@@ -214,3 +214,9 @@
 
 # Books
 - [Atlantic 15 Books](https://www.theatlantic.com/books/archive/2022/01/critically-acclaimed-books-atwood-ishiguro/621287/)
+
+## Book Buying and Bookstores
+- [AbeBooks](https://www.abebooks.com/)
+- [Biblio](https://www.biblio.com/)
+### Rochester 
+- [Small World Bookstore - Rochester](https://www.abebooks.com/Small-World-Books-Rochester-NY-U.S.A/134401/sf) 
