@@ -139,6 +139,7 @@
 ### Ireland
 - [John Moriarty](https://www.irishlifeandlore.com/product/john-moriarty-part-1/)
 - [John Moriarty - Spotify Podcast](https://open.spotify.com/episode/6UCVTW5XgL5IM5Yx0xiQGy?si=0TxLiKruSqO-AKyYrnty8w)
+- [John O'Donohue](https://www.johnodonohue.com/)
 
 ## Language
 
