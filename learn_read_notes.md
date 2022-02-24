@@ -221,3 +221,7 @@
 - [Biblio](https://www.biblio.com/)
 ### Rochester 
 - [Small World Bookstore - Rochester](https://www.abebooks.com/Small-World-Books-Rochester-NY-U.S.A/134401/sf) 
+
+
+# Prep
+- [Food storage table - pounds per gallon](https://www.usaemergencysupply.com/information-center/packing-your-own-food-storage/how-much-food-fits-in-a-container)
