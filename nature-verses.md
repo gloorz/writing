@@ -73,3 +73,15 @@
 - And new China
 - Or maybe nothing will take the place
 - We will find out in time what will fill that old space
+
+- The table has been set in a new way that is beyond recognition
+- Somehow it's the same room
+- Someehow it's the same guests
+- But everything seems different
+- "Nothings changes" they would all say
+- Before the question had even left their mouth
+- But everthing is different 
+- It's all so significantly different
+- It feels like a new hermit crab in the old shell
+- A new drink in an old vessel
+- A new fresh air in an old breath
