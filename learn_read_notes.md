@@ -32,6 +32,7 @@
 ## Inspiring Organizations
 - [MSCHF](https://www.nytimes.com/2020/01/30/style/MSCHF-sneakers-culture.html)
 - [Oxide Computers](https://oxide.computer/principles) 
+- [Shine](http://www.theshinemovement.org/#intro) - community events - see notes for prior events and ideas
 
 ## Life Balance
 - [Burnout Calculator - Based on Maslach Burnout Inventory](https://www.brnsft.com/burnout)
