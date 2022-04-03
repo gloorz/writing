@@ -84,4 +84,18 @@
 - It's all so significantly different
 - It feels like a new hermit crab in the old shell
 - A new drink in an old vessel
-- A new fresh air in an old breath
+- A new fresh air in an old 
+
+- Even when tired, time with good friends leaves us with energy
+- Even when uninspired, time with good friends brings inspiration
+- We are social beasts with fangs and claws
+- The act is simple, put away the fangs and claws
+- No matter our differences, Be nice to each other
+  - I thank him for holding the door for me
+- No matter our differing directions, take care of each other
+  - "yeah baba" he says as we pass each other
+- Be an inspiration in how we carry ourselves
+- Abundance creates the ability to give
+- Giving was never about the reciever
+- Giving dissolves our sense of ownership
+- It all starts and ends with generosity to all
