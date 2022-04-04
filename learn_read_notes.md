@@ -28,6 +28,7 @@
 ## Python
 - [Real Python: Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)
 - [Book: Effective Python Examples](https://github.com/bslatkin/effectivepython/tree/v1)
+- [Iterable, ordered, mutable, hasbable explained](https://towardsdatascience.com/iterable-ordered-mutable-and-hashable-python-objects-explained-1254c9b9e421)
 
 ## Inspiring Organizations
 - [MSCHF](https://www.nytimes.com/2020/01/30/style/MSCHF-sneakers-culture.html)
