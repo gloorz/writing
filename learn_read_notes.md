@@ -233,6 +233,6 @@
 - [Food storage table - pounds per gallon](https://www.usaemergencysupply.com/information-center/packing-your-own-food-storage/how-much-food-fits-in-a-container)
 
 
-# Biked
+# Bicycle
 ## NYC
 - [NYC bike map](https://www.nycbikemap.nyc/)
