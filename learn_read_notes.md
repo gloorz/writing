@@ -100,6 +100,9 @@
 - [Forest Sangha](https://forestsangha.org/teachings/audio)
 - [Insight Meditation Center-California](https://www.audiodharma.org/)
 
+## Generosity
+- [The Atlantic - April 22 - Ode to giving people money](https://www.theatlantic.com/magazine/archive/2022/04/an-ode-to-giving-people-money/622835/)
+
 ## Marriage
 - ["A Happy Married Life: A Buddhist Perspective", by Ven. K. Sri Dhammananda. Access to Insight (BCBS Edition), 30 November 2013](http://www.accesstoinsight.org/lib/authors/dhammananda/marriage.html)
 
