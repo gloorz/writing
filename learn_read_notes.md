@@ -54,6 +54,7 @@
 - [Compiler Explorer](https://godbolt.org/)
 - [Conference Collector - Search Security Conferences](https://cc.thinkst.com/)
 - [Uptime.is](https://uptime.is)
+- [Taxonomy of Bugs](https://ourmachinery.com/post/a-taxonomy-of-bugs/)
 
 # Food and Fitness
 ## Coffee
