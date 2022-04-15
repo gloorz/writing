@@ -99,3 +99,15 @@
 - Giving was never about the reciever
 - Giving dissolves our sense of ownership
 - It all starts and ends with generosity to all
+
+
+- sometimes I stare at the sun for too long
+- it's fun to lick 9-volt batteries
+- playing with fire has always been pretty cool
+- What do these things say about a person
+- is it necessary to do this?
+- where do I go from here?
+- sometimes people drive fast
+- sometimes people yell and fly off the handle
+- is it necessary to do all this?
+- 9 volt batteries taste weird, don't do that
