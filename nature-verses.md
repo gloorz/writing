@@ -111,3 +111,34 @@
 - sometimes people yell and fly off the handle
 - is it necessary to do all this?
 - 9 volt batteries taste weird, don't do that
+
+
+## COVID Dreams - April 2020
+Couldn't sleep the other night, thoughts were looping, here they are:
+
+When it's all over will we have dreams about it
+When it's all over will we question our time worrying about nukes instead of it
+When it's all over will there be pictures on big screens about it
+When it's all over will we believe life comes in cycles and is about more than it
+
+When it's all over will we be stronger for it
+When it's all over will be tell our grand kids about it
+When it's all over will our grand kids not give a damn about it
+When it's all over will our grand kids make the same mistakes about it
+
+When it's all over will we remember that people are what let us reconnect about it
+When it's all over will we remember how confident we were about the world before it
+When it's all over will we remembered how much we missed our family about it
+When it's all over will we remember that all the money in the world couldn't do shit about it
+
+When it's all over will we remember the precious life lost about it 
+When it's all over will we remember there is still a life to live and not about it
+When it's all over will we remember to hug about it
+When it's all over will we remember to love about it
+
+Maybe we can learn what truly matters throughout it
+Maybe we can learn to love throughout it
+Maybe we can learn how short life is throughout it
+Maybe we can learn how much I miss you throughout out
+
+
