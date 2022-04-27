@@ -199,6 +199,7 @@
 - [Blog: Male pattern boldness](http://malepatternboldness.blogspot.com/)
 - [Strap Works](https://www.strapworks.com/)
 - [Zipper Stop](https://zipperstop.com/)
+- [Blog: Biomaterials](https://news.mongabay.com/2022/04/sustainable-fashion-biomaterial-revolution-replacing-fur-and-skins/)
 
 ### Messenger Bags Sewing 
 - [Messenger Bag pattern](https://notimetosew.wordpress.com/2011/12/05/messenger-bag-tutorial/)
