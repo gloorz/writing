@@ -199,11 +199,12 @@
 - [Blog: Male pattern boldness](http://malepatternboldness.blogspot.com/)
 - [Strap Works](https://www.strapworks.com/)
 - [Zipper Stop](https://zipperstop.com/)
-- [Blog: Biomaterials](https://news.mongabay.com/2022/04/sustainable-fashion-biomaterial-revolution-replacing-fur-and-skins/)
-
-### Messenger Bags Sewing 
+### Patterns
+- [Mens Overalls](https://www.etsy.com/listing/857717417/rainhaven-overalls-men-pdf-pattern)
 - [Messenger Bag pattern](https://notimetosew.wordpress.com/2011/12/05/messenger-bag-tutorial/)
 - [Timbuk2 Article](https://www.cnet.com/pictures/how-timbuk2-makes-its-messenger-bags-pictures/2/)
+### R&D
+- [Blog: Biomaterials](https://news.mongabay.com/2022/04/sustainable-fashion-biomaterial-revolution-replacing-fur-and-skins/)
 
 # Personal Finance
 - [Blog: Credit Freeze](https://krebsonsecurity.com/2018/09/credit-freezes-are-free-let-the-ice-age-begin/)
