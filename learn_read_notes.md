@@ -36,7 +36,6 @@
 - [Shine](http://www.theshinemovement.org/#intro) - community events - see notes for prior events and ideas
 
 ## Life Balance
-- [Burnout Calculator - Based on Maslach Burnout Inventory](https://www.brnsft.com/burnout)
 - [80000hours](https://80000hours.org/) - "You have 80,000 hours in your career. This makes it your best opportunity to have a positive impact on the world."
 - [Katherine May - _Wintering_ author](https://katherine-may.co.uk/)
 
@@ -249,3 +248,6 @@
 # Bicycle
 ## NYC
 - [NYC bike map](https://www.nycbikemap.nyc/)
+
+# Broken Links
+- [Burnout Calculator - Based on Maslach Burnout Inventory](https://www.brnsft.com/burnout)
