@@ -249,5 +249,8 @@
 ## NYC
 - [NYC bike map](https://www.nycbikemap.nyc/)
 
+## Blogs
+
+- [NYC Bike Snob](https://bikesnobnyc.com/)
 # Broken Links
 - [Burnout Calculator - Based on Maslach Burnout Inventory](https://www.brnsft.com/burnout)
