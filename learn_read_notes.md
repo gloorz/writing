@@ -70,7 +70,7 @@
 - [peach tree pruning](https://youtu.be/1fYjiMqPMEg)
 
 ## Agroecology
-- [Berkeley Food Institute](https://food.berkeley.edu/priorities/agroecology/
+- [Berkeley Food Institute](https://food.berkeley.edu/priorities/agroecology/)
 - [United Nations FAO](https://www.fao.org/agroecology/overview/en/)
 
 
