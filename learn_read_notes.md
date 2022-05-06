@@ -8,6 +8,7 @@
   - "Relatedness, autonomy, mastery, and purpose are essential drivers. Rewards and punishments are actively destructive."
 - [Strawman Planning](https://www.linkedin.com/pulse/strawman-project-plan-what-why-should-you-use-one-brian-fredrickson/) - sketch a plan, get team buy-in and feedback, make improvements, move forward. Don't be defensive. 
 - [Changing Status Quo and Learned Helplessness](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams)
+- [Startup Playbook](https://playbook.samaltman.com/)
 
 ## DevOps
 - The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
