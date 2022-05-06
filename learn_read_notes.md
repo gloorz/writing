@@ -35,7 +35,11 @@
 - [MSCHF](https://www.nytimes.com/2020/01/30/style/MSCHF-sneakers-culture.html)
 - [Oxide Computers](https://oxide.computer/principles) 
 - [Shine](http://www.theshinemovement.org/#intro) - community events - see notes for prior events and ideas
+
+### Web3/DAO
+- [A Web3/Crypto Glossary - one of many - first I found](https://coinmarketcap.com/alexandria/glossary)
 - [Harmony](https://www.harmony.one/)
+- [Daohaus](https://daohaus.club/)
 
 ## Life Balance
 - [80000hours](https://80000hours.org/) - "You have 80,000 hours in your career. This makes it your best opportunity to have a positive impact on the world."
