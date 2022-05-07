@@ -35,6 +35,8 @@
 - [MSCHF](https://www.nytimes.com/2020/01/30/style/MSCHF-sneakers-culture.html)
 - [Oxide Computers](https://oxide.computer/principles) 
 - [Shine](http://www.theshinemovement.org/#intro) - community events - see notes for prior events and ideas
+- [Pentagram Design](https://en.m.wikipedia.org/wiki/Pentagram_(design_firm))
+
 
 ### Web3/DAO
 - [A Web3/Crypto Glossary - one of many - first I found](https://coinmarketcap.com/alexandria/glossary)
