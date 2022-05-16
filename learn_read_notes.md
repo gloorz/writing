@@ -39,6 +39,7 @@
 
 
 ### Web3/DAO
+- [Starting a DAO: Basics](https://www.publish0x.com/gmw3/starting-a-dao-the-basics-xxydkdp)
 - [A Web3/Crypto Glossary - one of many - first I found](https://coinmarketcap.com/alexandria/glossary)
 - [Harmony](https://www.harmony.one/)
 - [Daohaus](https://daohaus.club/)
