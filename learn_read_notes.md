@@ -36,6 +36,7 @@
 - [Oxide Computers](https://oxide.computer/principles) 
 - [Shine](http://www.theshinemovement.org/#intro) - community events - see notes for prior events and ideas
 - [Pentagram Design](https://en.m.wikipedia.org/wiki/Pentagram_(design_firm))
+- [South Park Commons](https://www.southparkcommons.com/)
 
 
 ### Web3/DAO
