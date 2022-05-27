@@ -251,6 +251,7 @@
 
 # Books
 - [Atlantic 15 Books](https://www.theatlantic.com/books/archive/2022/01/critically-acclaimed-books-atwood-ishiguro/621287/)
+- [Atlantic - Books when feeling bad](https://www.theatlantic.com/books/archive/2022/01/books-for-bad-moods-feel-good-morrison-ferrante/621399/)
 
 ## Book Buying and Bookstores
 - [AbeBooks](https://www.abebooks.com/)
