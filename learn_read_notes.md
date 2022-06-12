@@ -273,3 +273,9 @@
 - [NYC Bike Snob](https://bikesnobnyc.com/)
 # Broken Links
 - [Burnout Calculator - Based on Maslach Burnout Inventory](https://www.brnsft.com/burnout)
+
+# Gear
+- [Tent: Big Agnes](https://www.bigagnes.com/)
+- [Bike Bag: Tail Fin](https://www.tailfin.cc/)
+- [Clippers](https://felco.com/)
+
