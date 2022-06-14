@@ -280,3 +280,7 @@
 - [Clippers](https://felco.com/)
 - [Tent/Backpacking](https://www.hyperlitemountaingear.com/)
 
+# Writing
+
+## Journalism
+- [Solutions Journalism](https://www.solutionsjournalism.org/)
