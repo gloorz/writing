@@ -278,4 +278,5 @@
 - [Tent: Big Agnes](https://www.bigagnes.com/)
 - [Bike Bag: Tail Fin](https://www.tailfin.cc/)
 - [Clippers](https://felco.com/)
+- [Tent/Backpacking](https://www.hyperlitemountaingear.com/)
 
