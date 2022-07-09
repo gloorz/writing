@@ -280,6 +280,7 @@
 - [Clippers](https://felco.com/)
 - [Tent/Backpacking](https://www.hyperlitemountaingear.com/)
 - [Topo Designs](https://topodesigns.com/)
+- [SWG Light Bags](https://www.swdbackpacks.com/product-page/rugged-big-wild-95l-internal-frame)
 
 
 # Writing
