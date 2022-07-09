@@ -284,5 +284,8 @@
 
 # Writing
 
+## writing mechanics
+- [the Atlantic - keep simple](https://www.theatlantic.com/ideas/archive/2022/01/writing-tips-for-journalists-jargon-simplicity/621411/)
+
 ## Journalism
 - [Solutions Journalism](https://www.solutionsjournalism.org/)
