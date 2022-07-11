@@ -39,11 +39,16 @@
 - [South Park Commons](https://www.southparkcommons.com/)
 
 
-### Web3/DAO
+## Web3/DAO
 - [Starting a DAO: Basics](https://www.publish0x.com/gmw3/starting-a-dao-the-basics-xxydkdp)
 - [A Web3/Crypto Glossary - one of many - first I found](https://coinmarketcap.com/alexandria/glossary)
 - [Harmony](https://www.harmony.one/)
 - [Daohaus](https://daohaus.club/)
+
+## web3/distributed ledger
+- [Is "acceptably non-dystopian" self-sovereign identity even possible?
+
+by Molly White](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
 
 ## Life Balance
 - [80000hours](https://80000hours.org/) - "You have 80,000 hours in your career. This makes it your best opportunity to have a positive impact on the world."
