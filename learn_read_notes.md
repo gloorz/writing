@@ -47,6 +47,8 @@
 
 ## web3/distributed ledger
 - [Is "acceptably non-dystopian" self-sovereign identity even possible? by Molly White](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
+- [trail of bits-are blockchains decentralized](https://blog.trailofbits.com/2022/06/21/are-blockchains-decentralized/)
+
 
 ## Life Balance
 - [80000hours](https://80000hours.org/) - "You have 80,000 hours in your career. This makes it your best opportunity to have a positive impact on the world."
