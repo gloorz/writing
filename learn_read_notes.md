@@ -295,6 +295,8 @@
 - [the Atlantic - keep simple](https://www.theatlantic.com/ideas/archive/2022/01/writing-tips-for-journalists-jargon-simplicity/621411/)
 - [creating conflict in utopia - hal Hefner](https://www.demandabetterfuture.com/post/creating-conflict-in-utopian-writing)
 - [extinction rebellion - solarpunk](http://www.solarpunkstorytelling.com/about/xr-wordsmiths/)
+- [solarpunk magazine](https://solarpunkmagazine.com/)
+
 
 ## Journalism
 - [Solutions Journalism](https://www.solutionsjournalism.org/)
