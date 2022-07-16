@@ -293,6 +293,8 @@
 
 ## writing mechanics
 - [the Atlantic - keep simple](https://www.theatlantic.com/ideas/archive/2022/01/writing-tips-for-journalists-jargon-simplicity/621411/)
+- [creating conflict in utopia - hal Hefner](https://www.demandabetterfuture.com/post/creating-conflict-in-utopian-writing)
+
 
 ## Journalism
 - [Solutions Journalism](https://www.solutionsjournalism.org/)
