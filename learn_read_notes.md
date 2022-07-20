@@ -53,6 +53,7 @@
 ## Life Balance
 - [80000hours](https://80000hours.org/) - "You have 80,000 hours in your career. This makes it your best opportunity to have a positive impact on the world."
 - [Katherine May - _Wintering_ author](https://katherine-may.co.uk/)
+- [Burnout Guide](https://commoncog.com/g/burnout/)
 
 ## Management
 - [Jeremy Hunter](https://jeremyhunter.net/about/) - "My work redefines and enhances productivity by cultivating quality of mind"
