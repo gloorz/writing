@@ -70,6 +70,7 @@
 - [Uptime.is](https://uptime.is)
 - [Taxonomy of Bugs](https://ourmachinery.com/post/a-taxonomy-of-bugs/)
 - [Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
+- [Blog: Things I wish everyone knew about Git (Part I)](https://blog.plover.com/prog/git/tips.html) - I originally thought my brain was broken until I read this article. Still don't fully get Git, but that's ok. 
 
 # Food and Fitness
 ## Coffee
