@@ -10,6 +10,7 @@
 - [Changing Status Quo and Learned Helplessness](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams)
 - [Startup Playbook](https://playbook.samaltman.com/)
 - [Github List: People Ops, Performance Reviews and Goal-setting](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/People-Ops-Perf-Reviews-and-Goal-setting.md)
+- [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) - rules for sharing non-attributable sensistive information
 
 ## DevOps
 - The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
@@ -32,12 +33,13 @@
 - [Book: Effective Python Examples](https://github.com/bslatkin/effectivepython/tree/v1)
 - [Iterable, ordered, mutable, hasbable explained](https://towardsdatascience.com/iterable-ordered-mutable-and-hashable-python-objects-explained-1254c9b9e421)
 
-## Inspiring Organizations
+## Inspiring Organizations/Stories
 - [MSCHF](https://www.nytimes.com/2020/01/30/style/MSCHF-sneakers-culture.html)
 - [Oxide Computers](https://oxide.computer/principles) 
 - [Shine](http://www.theshinemovement.org/#intro) - community events - see notes for prior events and ideas
 - [Pentagram Design](https://en.m.wikipedia.org/wiki/Pentagram_(design_firm))
 - [South Park Commons](https://www.southparkcommons.com/)
+- [Risk Everything](https://gigaom.com/2007/08/07/risk-everything/) - interesting sailing story that highlights characteristics worth engaging. 
 
 
 ## Web3/DAO
