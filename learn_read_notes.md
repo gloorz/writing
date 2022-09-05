@@ -266,6 +266,12 @@
 - [Atlantic 15 Books](https://www.theatlantic.com/books/archive/2022/01/critically-acclaimed-books-atwood-ishiguro/621287/)
 - [Atlantic - Books when feeling bad](https://www.theatlantic.com/books/archive/2022/01/books-for-bad-moods-feel-good-morrison-ferrante/621399/)
 
+## Fiction
+
+### Sci-Fi
+- [Octavias Parable's](https://www.readingoctavia.com/)
+- [Octavia E. Butler Resources](https://www.strathmore.org/what-s-on/archived-edps/21-22-season/parable-resource-list/)
+
 ## Book Buying and Bookstores
 - [AbeBooks](https://www.abebooks.com/)
 - [Biblio](https://www.biblio.com/)
