@@ -1,4 +1,4 @@
-During Day
+**During Day**
 - Consistent sleep/wake time (+/- 1 hour) everyday
   - Try to see outside lightrays from rising sun (not through sun glasses or UV tinted glass)  
 - Eliminate caffiene - green tea or other minimally caffinated before noon (caffiene 6 hour half-life)
@@ -8,7 +8,7 @@ During Day
 - Exercise and physical activity during day, everyday
 - Manage cumulative stress and take time to recuperate from stressful situations
 
-One Hour before bed
+**One Hour before bed**
 - Tea (minimal quantity to minimize getting up to go to bathroom)
   - valerian root tea 
 - Magnesium citrate - 1 pill 
