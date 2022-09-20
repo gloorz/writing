@@ -22,7 +22,7 @@
   - meditation 
 
 ## Reading Notes
-- Huberman Lab - Podcast
+- [Huberman Lab - Podcast](https://hubermanlab.com/sleep-toolkit-tools-for-optimizing-sleep-and-sleep-wake-timing/)
   - Temperature
     - Need to drop temps before bed
       - Cold shower? 
