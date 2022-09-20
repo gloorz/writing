@@ -1,3 +1,4 @@
+## Current Approach
 **During Day**
 - Consistent sleep/wake time (+/- 1 hour) everyday
   - Try to see outside lightrays from rising sun (not through sun glasses or UV tinted glass)  
@@ -19,3 +20,14 @@
 - To explore:
   - cold shower
   - meditation 
+
+## Reading Notes
+- Huberman Lab - Podcast
+  - Temperature
+    - Need to drop temps before bed
+      - Cold shower? 
+    - Need to raise temps when waking up 
+      - Light exercise?
+  - Light - try to get it close to sun-up directly - not through car windsheild, etc. 
+    -  5 minutes sunny morning, 20-30 if overcast rain
+    -  Triggers natural morning cortisol boost and sets clock for going to bed
