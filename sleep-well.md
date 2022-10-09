@@ -37,56 +37,56 @@
 - Food what, when, amount
 - Exercise raise temp and alertness
 
-Adenosine accumulates to create sleep  - caffeine blocks this process
+- Adenosine accumulates to create sleep  - caffeine blocks this process
 
 
 Supplements:
-Magnesium threonate - can cause g/i distress
-Theanine - can create intense dreams that are anxiety inducing
-Apigenin (chamomile is natural source, likely lower dose than supplement)
-Taken an hour before bed
+- Magnesium threonate - can cause g/i distress
+- Theanine - can create intense dreams that are anxiety inducing
+- Apigenin (chamomile is natural source, likely lower dose than supplement)
+- Taken an hour before bed
 
 Digital tools:
-Non-sleep deep rest scripts
-Yoga nidra
-Revelli
+- Non-sleep deep rest scripts
+- Yoga nidra
+- Revelli app (has cost)
 
 
 Perfect 24 hours;
-Temperature increases to awaken
-Increase cortisol (in a good way)
-View bright sunlight 30 to 60 minutes after waking
-  Triggers cortisol release
-  This effectively sets the timer for falling asleep later in the day on time
-  Need to get low solar angle (morning)
-  No sunglasses and not through window (prescription glasses okay)
-  Light viewing does the foundational power tool for ensuring a great night's sleep
-  If waking up before sunrise, turn on artificial lights in the house
-    It's not a replacement, but it's better than nothing
-  There is an asymmetry, where we need to prevent light into the eyes in the evening
-  I'm cloudy days, you especially need to get outside to accumulate light to the eyes. Amount is highly dependent on where one lives and their own sensitivity to light.
-  Clear day - 5 min, cloud - 10 min, dense over caste - 20-30 min
-  Do this for 80% of the days of your life, if sick try to get near a window, if traveling try to get more duration the next day
-  Use phone based light meter to get a sense of light intensity
+- Temperature increases to awaken
+- Increase cortisol (in a good way)
+- View bright sunlight 30 to 60 minutes after waking
+  - Triggers cortisol release
+  - This effectively sets the timer for falling asleep later in the day on time
+  - Need to get low solar angle (morning)
+  - No sunglasses and not through window (prescription glasses okay)
+  - Light viewing does the foundational power tool for ensuring a great night's sleep
+  - If waking up before sunrise, turn on artificial lights in the house
+    - It's not a replacement, but it's better than nothing
+  - There is an asymmetry, where we need to prevent light into the eyes in the evening
+  - on cloudy days, you especially need to get outside to accumulate light to the eyes. Amount is highly dependent on where one lives and their own sensitivity to light.
+  - Clear day - 5 min, cloud - 10 min, dense over caste - 20-30 min
+  - Do this for 80% of the days of your life, if sick try to get near a window, if traveling try to get more duration the next day
+  - Use phone based light meter to get a sense of light intensity
 
 
 Temperature
 
-Increase temperature more rapidly
-  Cold shower (has inverse effect on body temp) 1-3 min
-  Exercise/movement/walk will raise body temp (either 30 min, 3 hours, or 11 hour after waking)
+- Increase temperature more rapidly
+  - Cold shower (has inverse effect on body temp) 1-3 min
+  - Exercise/movement/walk will raise body temp (either 30 min, 3 hours, or 11 hour after waking)
     - walk, skip rope outside in sunlight 
     - doesn't need to be full workout for day
 
 
 Caffeine
-Delay caffeine for 90- 120 minutes - this avoids afternoon crash
+- Delay caffeine for 90- 120 minutes - this avoids afternoon crash
 do other practices first
 
 
 Food timing
-Eating earlier in day increases temp and metabolism
-Be careful of food volume as this one inherently create sluggishness
+- Eating earlier in day increases temp and metabolism
+- Be careful of food volume as this one inherently create sluggishness
 
 
 Three critical periods 
