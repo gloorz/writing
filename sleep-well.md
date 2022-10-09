@@ -12,10 +12,10 @@
 **One Hour before bed**
 - low light / minimal screens 
 - Tea (minimal quantity to minimize getting up to go to bathroom)
-  - valerian root tea / chamomile 
+  - [valerian root tea](https://celebrationherbals.com/valerian-root.html) / [chamomile]( https://celebrationherbals.com/chamomile-flowers.html)
 - Magnesium citrate - 1 pill 
 - Comedy tv show (30 minutes) 
-- Light Qi-Gong (5-10 minutes)
+- [Light Qi-Gong (5-10 minutes)](https://vimeo.com/165652965)
 - Yoga Tune-up  
   - Coregeous Ball on abdomen 
 - To explore:
