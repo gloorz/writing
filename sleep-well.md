@@ -10,8 +10,9 @@
 - Manage cumulative stress and take time to recuperate from stressful situations
 
 **One Hour before bed**
+- low light / minimal screens 
 - Tea (minimal quantity to minimize getting up to go to bathroom)
-  - valerian root tea 
+  - valerian root tea / chamomile 
 - Magnesium citrate - 1 pill 
 - Comedy tv show (30 minutes) 
 - Light Qi-Gong (5-10 minutes)
