@@ -1,4 +1,6 @@
-## Nature Verses
+_Stream of concious writing_
+
+# Nature Verses
 - All the megapixels in the world can't capture the beauty like open eyes
 - The blood orange sunset radiates effortlessly like the open heart
 - Loons dining in the hazy sunset with fragrant summer smells 
@@ -112,6 +114,17 @@
 - is it necessary to do all this?
 - 9 volt batteries taste weird, don't do that
 
+- It was a full beaver moon
+- until it was totally eclipsed
+- then it turned into a blood red moon
+- Many things are uncertain
+- but the full moon and the eclipse were not one of them
+- it's election day too
+- that _is_ uncertain
+- how we will be in this world is exceedingly uncertain
+- but the moon will continue to be eclipsed
+- the earth will continued to spin
+- and the sun will continue to shine
 
 ## COVID Dreams - April 2020
 Couldn't sleep the other night, thoughts were looping, here they are:
