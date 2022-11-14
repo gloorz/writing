@@ -107,4 +107,6 @@ Three critical periods
 
 Consistency - wake time, even on weekends
 
+## References 
+- [Sleep Foundation: List of natural sleep aids](https://www.sleepfoundation.org/sleep-aids/natural-sleep-aids)
 
