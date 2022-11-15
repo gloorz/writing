@@ -282,7 +282,7 @@
 
 # Prep
 - [Food storage table - pounds per gallon](https://www.usaemergencysupply.com/information-center/packing-your-own-food-storage/how-much-food-fits-in-a-container)
-
+- [Make mega list of prepper resources](https://makezine.com/article/maker-news/emergency-prep-how-makers-can-prepare-for-disruptions-and-disasters-of-all-kinds)
 
 # Bicycle
 ## NYC
