@@ -7,3 +7,5 @@ After assignee completes their work, they remove themselves as an assignee [ref]
 [It's an issue!](https://about.gitlab.com/blog/2019/08/02/gitlab-for-the-non-technical/#its-an-issue)
 
 [Uncovering the diverse needs of non-engineering GitLab users](https://about.gitlab.com/blog/2020/10/26/how-non-engineers-experience-gitlab/)
+
+[Using Gitlab as a project management tool](https://www.youtube.com/watch?v=bCDmxG4IIXA)
