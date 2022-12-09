@@ -87,6 +87,7 @@
 ## Farm
 - [Grow Where You Are - Atlanta Based Urban Farming](https://www.growwhereyouare.farm/)
 - [Northeast Organic Farm Association-NY](https://nofany.org/)
+- [Microsoft - Farmvibes](https://www.microsoft.com/en-us/research/project/project-farmvibes/articles/farmvibes-bot/)
 
 ### Fruit
 - [peach tree pruning](https://youtu.be/1fYjiMqPMEg)
