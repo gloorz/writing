@@ -19,4 +19,4 @@
 - [Tara Brach - Page on RAIN](https://www.tarabrach.com/rain/)
 
 ### More Resources
-- [Podcast: Dharma Punx NYC - Josh Korda](https://dharmapunxnyc.podbean.com/) - this is usually a talk and then guided meditation specific to the talk. If I am driving in the car I might just listen to the talk. Josh is super knowledgable is psychological underpinnings and meditation practice. It makes for really effective talks. [More at Dharma Punx NYC](https://www.dharmapunxnyc.com/)
+- [Podcast: Dharma Punx NYC - Josh Korda](https://dharmapunxnyc.podbean.com/) - this is usually a talk and then guided meditation specific to the talk. If I am driving in the car I might just listen to the talk. Josh is super knowledgable in the psychological underpinnings and meditation practice. It makes for really effective talks. [More at Dharma Punx NYC](https://www.dharmapunxnyc.com/)
