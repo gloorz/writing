@@ -200,6 +200,8 @@
 - [Witia Blog](https://witia.squarespace.com/blogeng)
   - "the entire Witia project is a creative not a scientific project"
   - "Large part of the “Witia” project is an attempt to look at the Slavic culture with the eyes of a pagan, with an openminded approach and respectful curiosity. Listening to the whispers of our Slavic souls we try to separate interpretations from facts and find in our heritage the elements which were supressed by the hundreds of years of Christianisation"
+- [Ukraine/Slav rituals](https://sites.ualberta.ca/~ssobon/ritual_wellness/8ritual.html)
+
 
 # Outdoors
 
