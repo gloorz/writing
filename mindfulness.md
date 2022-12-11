@@ -14,3 +14,6 @@
 ### RAIN: Recognize, Allow, Investigate, Nurture
 - **Note:** really simple, broadly applicable, and can be very effective. Worth the time to read. I especially use this when something is bugging me and I am stuggling to open up and move beyond it. 
 - [Tara Brach - Page on RAIN](https://www.tarabrach.com/rain/)
+
+### More Resources
+- [Podcast: Dharma Punx NYC - Josh Korda](https://dharmapunxnyc.podbean.com/) - this is usually a talk and then guided meditation specific to the talk. If I am driving in the car I might just listen to the talk. Josh is super knowledgable is psychological underpinnings and meditation practice. It makes for really effective talks. [More at Dharma Punx NYC](https://www.dharmapunxnyc.com/)
