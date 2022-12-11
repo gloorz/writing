@@ -11,12 +11,12 @@
   - [(10 min) - Week 2 -  Body Scan Meditation](https://youtu.be/L3HvsPixw74)
   - [Full 8 Week Playlist of Guided Tracks from book](https://www.youtube.com/playlist?list=PLrrZ559ucvcQoUJam4YNUSwMe5aby2aif)
 
+### Mindful Movement - Qi Gong
+[(12 min) Radiant Heart Qigong](https://vimeo.com/165652965) - this is nice on it's own, before/after a sitting meditation, or when sitting just is not in the cards for the day. This is more about feeling one's body and breath flow than a strength or stretch routine. It's my understanding it originates in a 'water practice', so I often try to envision water flowing when I move to keep it smooth and not tense or jerky. Not sure if this is an accurate application of the practice, but I enjoy it. 
+
 ### RAIN: Recognize, Allow, Investigate, Nurture
 - **Note:** really simple, broadly applicable, and can be very effective. Worth the time to read. I especially use this when something is bugging me and I am stuggling to open up and move beyond it. 
 - [Tara Brach - Page on RAIN](https://www.tarabrach.com/rain/)
-
-### Mindful Movement - Qi Gong
-[(12 min) Radiant Heart Qigong](https://vimeo.com/165652965) - this is nice on it's own, before/after a sitting meditation, or when sitting just is not in the cards for the day. This is more about feeling one's body and breath flow than a strength or stretch routine. It's my understanding it originates in a 'water practice', so I often try to envision water flowing when I move to keep it smooth and not tense or jerky. Not sure if this is an accurate application of the practice, but I enjoy it. 
 
 ### More Resources
 - [Podcast: Dharma Punx NYC - Josh Korda](https://dharmapunxnyc.podbean.com/) - this is usually a talk and then guided meditation specific to the talk. If I am driving in the car I might just listen to the talk. Josh is super knowledgable is psychological underpinnings and meditation practice. It makes for really effective talks. [More at Dharma Punx NYC](https://www.dharmapunxnyc.com/)
