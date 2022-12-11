@@ -10,3 +10,7 @@
   - [(3 min) - Week 8 - Breathing Exercise](https://youtu.be/f_jgHPuR4D4)
   - [(10 min) - Week 2 -  Body Scan Meditation](https://youtu.be/L3HvsPixw74)
   - [Full 8 Week Playlist of Guided Tracks from book](https://www.youtube.com/playlist?list=PLrrZ559ucvcQoUJam4YNUSwMe5aby2aif)
+
+### RAIN: Recognize, Allow, Investigate, Nurture
+- **Note:** really simple, broadly applicable, and can be very effective. Worth the time to read. I especially use this when something is bugging me and I am stuggling to open up and move beyond it. 
+- [Tara Brach - Page on RAIN](https://www.tarabrach.com/rain/)
