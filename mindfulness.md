@@ -1,5 +1,5 @@
 ### Mark Williams and Danny Penman - Finding Peace in a Frantic World
-- **Note:** this book is where I started. I heard the authors on an NPR interview and the rest is history. 
+- **Note:** this book is where I started. I heard the authors on an NPR interview in 2011 and the rest is history. 
 - Overviews
   - [3 min Animated Book Overview](https://www.youtube.com/watch?v=Sr9QbGszUT4)
   - [6 min Animated 8 Week Meditation Program Overview](https://www.youtube.com/watch?v=5UeyrBM2wa8)
