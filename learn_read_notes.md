@@ -1,5 +1,8 @@
 # Technology and Management 
 
+## Security
+- [open security training](https://www.ost2.fyi)
+
 ## Project Teams
 - [Heuristics for Effective Software Development: A continuously evolving list](https://holub.com/heuristics-for-effective-software-development-a-continuously-evolving-list/)
   - "Everything is an experiment"
