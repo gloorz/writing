@@ -322,3 +322,6 @@
 
 ## Journalism
 - [Solutions Journalism](https://www.solutionsjournalism.org/)
+
+# Building
+- [hobbit house](http://www.simondale.net/hobbit.htm)
