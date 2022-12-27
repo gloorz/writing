@@ -62,6 +62,8 @@
 - [Katherine May - _Wintering_ author](https://katherine-may.co.uk/)
 - [Burnout Guide](https://commoncog.com/g/burnout/)
 - [Pew Research - What makes life Meaningful](https://www.pewresearch.org/global/2021/11/18/what-makes-life-meaningful-views-from-17-advanced-economies/)
+- [Science of Ultradian Rhythms](https://www.bluezones.com/2020/06/how-taking-breaks-can-increase-productivity-boost-energy-levels-and-help-you-show-up-in-your-life/)
+
 
 ## Management
 - [Jeremy Hunter](https://jeremyhunter.net/about/) - "My work redefines and enhances productivity by cultivating quality of mind"
