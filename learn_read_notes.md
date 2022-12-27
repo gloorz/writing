@@ -45,6 +45,7 @@
 - [South Park Commons](https://www.southparkcommons.com/)
 - [Risk Everything](https://gigaom.com/2007/08/07/risk-everything/) - interesting sailing story that highlights characteristics worth engaging. 
 - [AFSC](https://www.afsc.org/)
+- [Dr. Spencer Greenberg - optimize everything](https://www.spencergreenberg.com/work/)
 
 ## Web3/DAO
 - [Starting a DAO: Basics](https://www.publish0x.com/gmw3/starting-a-dao-the-basics-xxydkdp)
