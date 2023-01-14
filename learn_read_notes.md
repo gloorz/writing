@@ -328,3 +328,9 @@
 
 # Building
 - [hobbit house](http://www.simondale.net/hobbit.htm)
+
+# Prison
+- [The Marshal Project](https://www.themarshallproject.org/)
+- [American Prison Writing Project](https://apw.dhinitiative.org/)
+  - [Twitter: @prisonwitness](https://twitter.com/PrisonWitness)
+- [Books through Bars](https://www.booksthroughbars.org/)  
