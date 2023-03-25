@@ -15,6 +15,7 @@
 - [Github List: People Ops, Performance Reviews and Goal-setting](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/People-Ops-Perf-Reviews-and-Goal-setting.md)
 - [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) - rules for sharing non-attributable sensistive information
 - [Marc Andreesen - Company Turnaround](https://fictivekin.github.io/pmarchive-jekyll//guide_to_big_companies_part1.html) and [retention](https://fictivekin.github.io/pmarchive-jekyll//guide_to_big_companies_part2.html)
+- [Paul Graham - Make Schedule vs Manager Schedule](http://www.paulgraham.com/makersschedule.html)
 
 ## DevOps
 - The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
