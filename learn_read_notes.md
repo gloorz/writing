@@ -38,6 +38,14 @@
 - [Book: Effective Python Examples](https://github.com/bslatkin/effectivepython/tree/v1)
 - [Iterable, ordered, mutable, hasbable explained](https://towardsdatascience.com/iterable-ordered-mutable-and-hashable-python-objects-explained-1254c9b9e421)
 
+## AI/ML
+- [Google Machine Learning Foundations](https://developers.google.com/machine-learning/foundational-courses)
+  - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+  - [Google Course - Data Prep](https://developers.google.com/machine-learning/data-prep)
+
+## Rust
+- [Rust: The Programming Language for Safety and Performance](https://arxiv.org/ftp/arxiv/papers/2206/2206.05503.pdf)
+
 ## Inspiring Organizations/Stories
 - [MSCHF](https://www.nytimes.com/2020/01/30/style/MSCHF-sneakers-culture.html)
 - [Oxide Computers](https://oxide.computer/principles) 
@@ -65,7 +73,6 @@
 - [Burnout Guide](https://commoncog.com/g/burnout/)
 - [Pew Research - What makes life Meaningful](https://www.pewresearch.org/global/2021/11/18/what-makes-life-meaningful-views-from-17-advanced-economies/)
 - [Science of Ultradian Rhythms](https://www.bluezones.com/2020/06/how-taking-breaks-can-increase-productivity-boost-energy-levels-and-help-you-show-up-in-your-life/)
-
 
 ## Management
 - [Jeremy Hunter](https://jeremyhunter.net/about/) - "My work redefines and enhances productivity by cultivating quality of mind"
