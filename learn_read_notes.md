@@ -3,6 +3,10 @@
 ## Security
 - [open security training](https://www.ost2.fyi)
 
+### Threat Modeling
+- [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
+- [Threagile - Agile Threat Modeling](https://threagile.io/)
+
 ## Project Teams
 - [Heuristics for Effective Software Development: A continuously evolving list](https://holub.com/heuristics-for-effective-software-development-a-continuously-evolving-list/)
   - "Everything is an experiment"
