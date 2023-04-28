@@ -46,6 +46,7 @@
 - [Google Machine Learning Foundations](https://developers.google.com/machine-learning/foundational-courses)
   - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
   - [Google Course - Data Prep](https://developers.google.com/machine-learning/data-prep)
+- [Architecture of AI-Driven Security Operations with a Low False Positive Rate](https://towardsdatascience.com/architecture-of-ai-driven-security-operations-with-a-low-false-positive-rate-a33dbbad55b4)
 
 ## Rust
 - [Rust: The Programming Language for Safety and Performance](https://arxiv.org/ftp/arxiv/papers/2206/2206.05503.pdf)
