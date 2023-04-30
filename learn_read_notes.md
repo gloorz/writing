@@ -171,6 +171,7 @@
 - [Group: Brookln Zen Center - Undoing Patriarchy](https://brooklynzen.org/programs/undoing-patriarchy/)
 - [Group: Minnesota Mens Conference](https://minnesotamensconference.com/)
 - [Walton Stanley - Myth/Story](https://www.waltonstanley.com/)
+- [man talks - Connor beaton](https://mantalks.com/)
 
 # History and Organizations
 - [anarchist library](https://theanarchistlibrary.org/special/index)
