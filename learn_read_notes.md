@@ -50,6 +50,7 @@
 
 ## Rust
 - [Rust: The Programming Language for Safety and Performance](https://arxiv.org/ftp/arxiv/papers/2206/2206.05503.pdf)
+- [Advanced Rust: double linked lists](https://rust-unofficial.github.io/too-many-lists/)
 
 ## Inspiring Organizations/Stories
 - [MSCHF](https://www.nytimes.com/2020/01/30/style/MSCHF-sneakers-culture.html)
