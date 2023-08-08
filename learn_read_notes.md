@@ -350,4 +350,8 @@
 - [The Marshal Project](https://www.themarshallproject.org/)
 - [American Prison Writing Project](https://apw.dhinitiative.org/)
   - [Twitter: @prisonwitness](https://twitter.com/PrisonWitness)
-- [Books through Bars](https://www.booksthroughbars.org/)  
+- [Books through Bars](https://www.booksthroughbars.org/)
+
+# Systems
+- [Appreciative Inquiry](https://organizingengagement.org/models/appreciative-inquiry/)
+  - [Untaught Essentials #16 David Cooperrider](https://www.youtube.com/watch?v=9FF-jlWl-dA)
