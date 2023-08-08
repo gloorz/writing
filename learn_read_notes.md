@@ -355,3 +355,4 @@
 # Systems
 - [Appreciative Inquiry](https://organizingengagement.org/models/appreciative-inquiry/)
   - [Untaught Essentials #16 David Cooperrider](https://www.youtube.com/watch?v=9FF-jlWl-dA)
+- [Rich Roll: Internal Family Systems](https://www.richroll.com/podcast/richard-schwartz-761/)
